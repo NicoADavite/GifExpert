@@ -1,4 +1,4 @@
-const baseUrl = "http://api.giphy.com/v1/gifs/search";
+const baseUrl = "https://api.giphy.com/v1/gifs/search";
 const apiKey = "tM2b3hOk6W3gVAQAhv0Ns5VJ0zb8akJR";
 const limit = 5;
 
